@@ -6,7 +6,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
-| 5 | LeetCode 287: Find Duplicate Number | Cycle Detection (Floyd's Algorithm) | [Link] |
+| 5 | LeetCode 287: Find Duplicate Number | Cycle Detection (Floyd's Algorithm) | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode287_find_duplicate.cpp) |
 | ... | ... | ... | ... |
 | 1 | Transpose Matrix | Basic Matrix Manipulations | [Link] |
 | ... | ... | ... | ... |
