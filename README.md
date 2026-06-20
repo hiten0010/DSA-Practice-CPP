@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 
 | Day | Problem Title | Pattern/Concept | Code Link |
+| 6 | LeetCode 56: Merge Intervals | Sorting & Merging | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode56_merge_intervals.cpp) |
 | :---: | :--- | :--- | :---: |
 | 5 | LeetCode 287: Find Duplicate Number | Cycle Detection (Floyd's Algorithm) | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode287_find_duplicate.cpp) |
 | ... | ... | ... | ... |
