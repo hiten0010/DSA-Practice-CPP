@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 
 | Day | Problem Title | Pattern/Concept | Code Link |
+| 8 | LeetCode 121: Best Time to Buy and Sell Stock | Arrays / Array Tracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode121_buy_sell_stock.cpp) |
 | 7 | LeetCode 31: Next Permutation | Arrays / Lexicographical Order | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode31_next_permutation.cpp) |
 | 6 | LeetCode 56: Merge Intervals | Sorting & Merging | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode56_merge_intervals.cpp) |
 | :---: | :--- | :--- | :---: |
