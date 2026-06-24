@@ -5,7 +5,6 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 
 | Day | Problem Title | Pattern/Concept | Code Link |
-| ... | ... | ... | ... |
 | 10 | Find Max and Min in Array | Linear Scan / Array Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/find_max_min.cpp) |
 | ... | ... | ... | ... |
 | 8 | LeetCode 121: Best Time to Buy and Sell Stock | Arrays / Array Tracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/leetcode121_buy_sell_stock.cpp) |
