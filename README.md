@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 12 | Generate Subsets (Power Set) | Bit Manipulation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Bit_Manipulation/subsets.cpp) |
 | 11 | Sort 0s, 1s, and 2s | Dutch National Flag Algorithm | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/sort_0_1_2.cpp) |
 | 10 | Find Max and Min in Array | Linear Scan | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/find_max_min.cpp) |
 | 9 | Reverse an Array | Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/reverse_array.cpp) |
