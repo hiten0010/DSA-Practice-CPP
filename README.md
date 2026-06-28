@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 14 | Kadane's Algorithm (Max Subarray Sum) | Dynamic Programming / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/kadanes_algorithm.cpp) |
 | 13 | Union of Two Arrays | Set / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/Arrays/union_of_two_arrays.cpp) |
 | 12 | Generate Subsets (Power Set) | Bit Manipulation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Bit_Manipulation/subsets.cpp) |
 | 11 | Sort 0s, 1s, and 2s | Dutch National Flag Algorithm | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/sort_0_1_2.cpp) |
