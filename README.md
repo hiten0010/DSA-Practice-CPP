@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 16 | Minimum Jumps | Greedy / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/minimum_jumps.cpp) |
 | 15 | Minimize the Heights II | Sorting & Greedy | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/minimize_the_heights.cpp) |
 | 14 | Kadane's Algorithm (Max Subarray Sum) | Dynamic Programming / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/kadanes_algorithm.cpp) |
 | 13 | Union of Two Arrays | Set / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/Arrays/union_of_two_arrays.cpp) |
