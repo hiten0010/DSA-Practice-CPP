@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 18 | Subarray with 0 sum | Hashing / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/subarray_with_0_sum.cpp) |
 | 17 | Merge Without Extra Space | Two Pointers & Sorting | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/merge_without_extra_space.cpp) |
 | 16 | Minimum Jumps | Greedy / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/minimum_jumps.cpp) |
 | 15 | Minimize the Heights II | Sorting & Greedy | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/minimize_the_heights.cpp) |
