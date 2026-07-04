@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 20 | Maximum Product Subarray | Arrays / Prefix & Suffix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/maximum_product_subarray.cpp) |
 | 19 | Factorials of large numbers | Arrays / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/factorials_of_large_numbers.cpp) |
 | 18 | Subarray with 0 sum | Hashing / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/subarray_with_0_sum.cpp) |
 | 17 | Merge Without Extra Space | Two Pointers & Sorting | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/merge_without_extra_space.cpp) |
