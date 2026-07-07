@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 23 | Trapping Rain Water | Prefix & Suffix Max / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/trapping_rain_water.cpp) |
 | 22 | Triplet Sum in Array | Sorting & Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/triplet_sum_in_array.cpp) |
 | 21 | Longest Consecutive Subsequence | Hashing / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/longest_consecutive_subsequence.cpp) |
 | 20 | Maximum Product Subarray | Arrays / Prefix & Suffix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/maximum_product_subarray.cpp) |
