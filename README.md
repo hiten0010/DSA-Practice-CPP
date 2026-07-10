@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 26 | Spirally traversing a matrix | 4 Pointers / Matrix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/spirally_traversing_a_matrix.cpp) |
 | 25 | Search a 2D Matrix | Binary Search / Matrix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/search_2d_matrix.cpp) |
 | 24 | Minimum swaps and K together | Sliding Window / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/minimum_swaps_and_k_together.cpp) |
 | 23 | Trapping Rain Water | Prefix & Suffix Max / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/trapping_rain_water.cpp) |
