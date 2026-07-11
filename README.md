@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 27 | Row with max 1s | Matrix / Optimal Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/row_with_max_1s.cpp) |
 | 26 | Spirally traversing a matrix | 4 Pointers / Matrix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/spirally_traversing_a_matrix.cpp) |
 | 25 | Search a 2D Matrix | Binary Search / Matrix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/search_2d_matrix.cpp) |
 | 24 | Minimum swaps and K together | Sliding Window / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/minimum_swaps_and_k_together.cpp) |
