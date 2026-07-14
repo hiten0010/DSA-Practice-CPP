@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 30 | Max rectangle | Stack & Histogram Logic / Matrix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/max_rectangle.cpp) |
 | 29 | Median in a row-wise sorted Matrix | Binary Search on Answers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/median_in_a_row_wise_sorted_matrix.cpp) |
 | 28 | Kth smallest element in a Matrix | Binary Search on Answers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/kth_smallest_element_in_a_matrix.cpp) |
 | 27 | Row with max 1s | Matrix / Optimal Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/row_with_max_1s.cpp) |
