@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 33 | Longest Palindrome in a String | Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/longest_palindrome.cpp) |
 | 32 | Count and Say | Strings / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/count_and_say.cpp) |
 | 31 | Count Inversions | Merge Sort / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/count_inversions.cpp) |
 | 30 | Max rectangle | Stack & Histogram Logic / Matrix | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/max_rectangle.cpp) |
