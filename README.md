@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 36 | Rat in a Maze | Backtracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Backtracking/rat_in_a_maze.cpp) |
 | 35 | Distinct Permutations of a String | Strings / Backtracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/distinct_permutations.cpp) |
 | 34 | Longest Repeating Subsequence | Strings / DP | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/longest_repeating_subsequence.cpp) |
 | 33 | Longest Palindrome in a String | Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/longest_palindrome.cpp) |
