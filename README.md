@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 39 | Word in Grid - All Occurrences | Matrix / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/word_in_grid.cpp) |
 | 38 | Longest Prefix Suffix | Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/longest_prefix_suffix.cpp) |
 | 37 | Next Permutation | Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/next_permutation.cpp) |
 | 36 | Rat in a Maze | Backtracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Backtracking/rat_in_a_maze.cpp) |
