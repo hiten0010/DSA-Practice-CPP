@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 42 | Rearrange To Make Adjacent Different | Strings / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/rearrange_adjacent_different.cpp) |
 | 41 | Smallest distinct window | Strings / Sliding Window | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/smallest_distinct_window.cpp) |
 | 40 | Minimum Swaps for Bracket Balancing | Strings / Greedy | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/minimum_swaps_bracket_balancing.cpp) |
 | 39 | Word in Grid - All Occurrences | Matrix / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Matrix/word_in_grid.cpp) |
