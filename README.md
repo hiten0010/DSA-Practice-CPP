@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 44 | First and Last in Sorted | Arrays / Binary Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BinarySearch/first_and_last_in_sorted.cpp) |
 | 43 | Search in Rotated Sorted Array | Arrays / Binary Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BinarySearch/search_rotated_sorted_array.cpp) |
 | 42 | Rearrange To Make Adjacent Different | Strings / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/rearrange_adjacent_different.cpp) |
 | 41 | Smallest distinct window | Strings / Sliding Window | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/smallest_distinct_window.cpp) |
