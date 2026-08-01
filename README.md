@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 48 | Triplets with Smaller Sum | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/triplets_with_smaller_sum.cpp) |
 | 47 | Stickler Thief | Dynamic Programming | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/stickler_thief.cpp) |
 | 46 | 4 Sum - All Quadruples | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/4_sum.cpp) |
 | 45 | Majority Element | Arrays / Moore's Voting Algorithm | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/majority_element.cpp) |
