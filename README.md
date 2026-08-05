@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 52 | Best Time to Buy and Sell Stock | Arrays / DP | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/best_time_to_buy_and_sell_stock.cpp) |
 | 51 | Common in 3 Sorted Arrays | Arrays / Three Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/common_in_3_sorted_arrays.cpp) |
 | 50 | Replace Consecutive Two Same with One | Strings / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/replace_consecutive_duplicates.cpp) |
 | 49 | K-th element of two Arrays | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/kth_element_of_two_arrays.cpp) |
