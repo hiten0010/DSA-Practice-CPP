@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 54 | Minimum Time Difference (LeetCode) | Strings / Sorting / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/minimum_time_difference.cpp) |
 | 53 | Number of Laser Beams in a Bank (LeetCode) | Strings / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/number_of_laser_beams.cpp) |
 | 52 | Best Time to Buy and Sell Stock | Arrays / DP | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/best_time_to_buy_and_sell_stock.cpp) |
 | 51 | Common in 3 Sorted Arrays | Arrays / Three Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/common_in_3_sorted_arrays.cpp) |
