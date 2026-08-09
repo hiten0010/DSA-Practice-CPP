@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 56 | Count Primes (LeetCode) | Math / Sieve of Eratosthenes | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Math/count_primes.cpp) |
 | 55 | Find K Closest Elements (LeetCode) | Arrays / Binary Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BinarySearch/find_k_closest_elements.cpp) |
 | 54 | Minimum Time Difference (LeetCode) | Strings / Sorting / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/minimum_time_difference.cpp) |
 | 53 | Number of Laser Beams in a Bank (LeetCode) | Strings / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/number_of_laser_beams.cpp) |
