@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 58 | K-diff Pairs in an Array (LeetCode) | Arrays / Hash Map | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/k_diff_pairs_in_an_array.cpp) |
 | 57 | Primes in a Range | Math / Segmented Sieve | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Math/primes_in_a_range_segmented_sieve.cpp) |
 | 56 | Count Primes (LeetCode) | Math / Sieve of Eratosthenes | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Math/count_primes.cpp) |
 | 55 | Find K Closest Elements (LeetCode) | Arrays / Binary Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BinarySearch/find_k_closest_elements.cpp) |
