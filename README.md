@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 61 | Product of Primes | Math / Segmented Sieve | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Math/product_of_primes.cpp) |
 | 60 | Zigzag Conversion (LeetCode) | Strings / Simulation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/zigzag_conversion.cpp) |
 | 59 | Reverse Only Letters (LeetCode) | Strings / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/reverse_only_letters.cpp) |
 | 58 | K-diff Pairs in an Array (LeetCode) | Arrays / Hash Map | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/k_diff_pairs_in_an_array.cpp) |
