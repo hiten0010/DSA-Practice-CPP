@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 65 | Container With Most Water (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/container_with_most_water.cpp) |
 | 64 | Remove All Occurrences of a Substring (LeetCode) | Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/remove_all_occurrences.cpp) |
 | 63 | Remove All Adjacent Duplicates In String (LeetCode) | Strings / Stack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/remove_all_adjacent_duplicates.cpp) |
 | 62 | Aggressive Cows | Binary Search on Answer | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BinarySearch/aggressive_cows.cpp) |
