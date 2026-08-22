@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 69 | 4Sum (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/TwoPointers_4sum.cpp) |
 | 68 | Sort Colors (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/sort_colors.cpp) |
 | 67 | 3Sum Closest (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/TwoPointers_3sum_closest.cpp) |
 | 66 | Valid Palindrome (LeetCode) | Strings / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/valid_palindrome.cpp) |
