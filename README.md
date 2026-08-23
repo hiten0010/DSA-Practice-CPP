@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 70 | Maximum Average Subarray I (LeetCode) | Arrays / Sliding Window | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/SlidingWindow_maximum_average_subarray_i.cpp) |
 | 69 | 4Sum (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/TwoPointers_4sum.cpp) |
 | 68 | Sort Colors (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/sort_colors.cpp) |
 | 67 | 3Sum Closest (LeetCode) | Arrays / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/TwoPointers_3sum_closest.cpp) |
