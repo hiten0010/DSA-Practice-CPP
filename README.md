@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 74 | Find Pivot Index (LeetCode) | Arrays / Prefix Sum | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/PrefixSum_find_pivot_index.cpp) |
 | 73 | Sliding Window Maximum (LeetCode) | Sliding Window / Monotonic Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/SlidingWindow/sliding_window_maximum.cpp) |
 | 72 | Word Search (LeetCode) | Backtracking / Matrix DFS | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Backtracking/word_search.cpp) |
 | 71 | Max Consecutive Ones III (LeetCode) | Arrays / Sliding Window | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/SlidingWindow_max_consecutive_ones_iii.cpp) |
