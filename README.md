@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 77 | Contiguous Array (LeetCode) | Prefix Sum / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/contiguous_array.cpp) |
 | 76 | Subarray Sum Equals K (LeetCode) | Prefix Sum / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/subarray_sum_equals_k.cpp) |
 | 75 | Find the Highest Altitude (LeetCode) | Arrays / Prefix Sum | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/find_highest_altitude.cpp) |
 | 74 | Find Pivot Index (LeetCode) | Arrays / Prefix Sum | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/PrefixSum_find_pivot_index.cpp) |
