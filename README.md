@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 79 | Number of Submatrices That Sum to Target (LeetCode) | 2D Prefix Sum / Hash Map | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/number_of_submatrices_that_sum_to_target.cpp) |
 | 78 | Shortest Subarray with Sum at Least K (LeetCode) | Prefix Sum / Monotonic Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/shortest_subarray_with_sum_at_least_k.cpp) |
 | 77 | Contiguous Array (LeetCode) | Prefix Sum / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/contiguous_array.cpp) |
 | 76 | Subarray Sum Equals K (LeetCode) | Prefix Sum / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/subarray_sum_equals_k.cpp) |
