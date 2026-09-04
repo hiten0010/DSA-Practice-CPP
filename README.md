@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 82 | Longest Consecutive Sequence (LeetCode) | Hashing / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Hashing/longest_consecutive_sequence.cpp) |
 | 81 | Group Anagrams (LeetCode) | Strings / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/group_anagrams.cpp) |
 | 80 | Valid Anagram (LeetCode) | Strings / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/valid_anagram.cpp) |
 | 79 | Number of Submatrices That Sum to Target (LeetCode) | 2D Prefix Sum / Hash Map | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/PrefixSum/number_of_submatrices_that_sum_to_target.cpp) |
