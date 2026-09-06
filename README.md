@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 84 | Palindrome Linked List (LeetCode) | Linked List / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/palindrome_linked_list.cpp) |
 | 83 | Substring with Concatenation of All Words (LeetCode) | Sliding Window / Hashing / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/SlidingWindow/substring_with_concatenation_of_all_words.cpp) |
 | 82 | Longest Consecutive Sequence (LeetCode) | Hashing / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Hashing/longest_consecutive_sequence.cpp) |
 | 81 | Group Anagrams (LeetCode) | Strings / Hashing | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Strings/group_anagrams.cpp) |
