@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 88 | Remove Duplicates from Sorted List (LeetCode) | Linked List | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/remove_duplicates_from_sorted_list.cpp) |
 | 87 | Add Two Numbers (LeetCode) | Linked List / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/add_two_numbers.cpp) |
 | 86 | Reverse Nodes in k-Group (LeetCode) | Linked List / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/reverse_nodes_in_k_group.cpp) |
 | 85 | Linked List Cycle II (LeetCode) | Linked List / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/linked_list_cycle_ii.cpp) |
