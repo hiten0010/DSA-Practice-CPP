@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 91 | Longest Valid Parentheses (LeetCode) | Stack / String | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/longest_valid_parentheses.cpp) |
 | 90 | Valid Parentheses (LeetCode) | Stack / String | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/valid_parentheses.cpp) |
 | 89 | Merge Nodes in Between Zeros (LeetCode) | Linked List / Two Pointers | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/merge_nodes_in_between_zeros.cpp) |
 | 88 | Remove Duplicates from Sorted List (LeetCode) | Linked List | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/remove_duplicates_from_sorted_list.cpp) |
