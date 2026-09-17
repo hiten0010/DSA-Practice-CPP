@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 95 | Online Stock Span (LeetCode) | Stack / Monotonic Stack / Design | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/online_stock_span.cpp) |
 | 94 | Largest Rectangle in Histogram (LeetCode) | Stack / Monotonic Stack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/largest_rectangle_in_histogram.cpp) |
 | 93 | Next Smaller Element (GFG) | Stack / Monotonic Stack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/next_smaller_element.cpp) |
 | 92 | Min Stack (LeetCode) | Stack / Design | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/min_stack.cpp) |
