@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 97 | Decode String (LeetCode) | Stack / String | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/decode_string.cpp) |
 | 96 | Car Fleet (LeetCode) | Stack / Sorting / Array | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/car_fleet.cpp) |
 | 95 | Online Stock Span (LeetCode) | Stack / Monotonic Stack / Design | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/online_stock_span.cpp) |
 | 94 | Largest Rectangle in Histogram (LeetCode) | Stack / Monotonic Stack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/largest_rectangle_in_histogram.cpp) |
