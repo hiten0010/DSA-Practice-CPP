@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 98 | First Negative Integer in Every Window of Size K | Queue / Sliding Window | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Queue/first_negative_in_window.cpp) |
 | 97 | Decode String (LeetCode) | Stack / String | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/decode_string.cpp) |
 | 96 | Car Fleet (LeetCode) | Stack / Sorting / Array | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/car_fleet.cpp) |
 | 95 | Online Stock Span (LeetCode) | Stack / Monotonic Stack / Design | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Stack/online_stock_span.cpp) |
