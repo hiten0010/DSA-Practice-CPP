@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 102 | Path Sum II (LeetCode) | Binary Tree / DFS / Backtracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/path_sum_ii.cpp) |
 | 101 | Balanced Binary Tree (LeetCode) | Binary Tree / Recursion / Depth-First Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/balanced_binary_tree.cpp) |
 | 100 | Gas Station (LeetCode) | Greedy / Array | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Greedy/gas_station.cpp) |
 | 99 | First Non-Repeating Character in a Stream | Queue / Array / String | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Queue/first_non_repeating_in_stream.cpp) |
