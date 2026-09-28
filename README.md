@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 103 | Construct Binary Tree from Inorder and Postorder (LeetCode) | Tree / Array / DFS | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/construct_binary_tree_inorder_postorder.cpp) |
 | 102 | Path Sum II (LeetCode) | Binary Tree / DFS / Backtracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/path_sum_ii.cpp) |
 | 101 | Balanced Binary Tree (LeetCode) | Binary Tree / Recursion / Depth-First Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/balanced_binary_tree.cpp) |
 | 100 | Gas Station (LeetCode) | Greedy / Array | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Greedy/gas_station.cpp) |
