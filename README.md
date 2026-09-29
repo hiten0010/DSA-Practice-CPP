@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 104 | Lowest Common Ancestor of a Binary Tree (LeetCode) | Binary Tree / DFS / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/lowest_common_ancestor.cpp) |
 | 103 | Construct Binary Tree from Inorder and Postorder (LeetCode) | Tree / Array / DFS | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/construct_binary_tree_inorder_postorder.cpp) |
 | 102 | Path Sum II (LeetCode) | Binary Tree / DFS / Backtracking | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/path_sum_ii.cpp) |
 | 101 | Balanced Binary Tree (LeetCode) | Binary Tree / Recursion / Depth-First Search | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/balanced_binary_tree.cpp) |
