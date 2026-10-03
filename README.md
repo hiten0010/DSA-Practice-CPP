@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 108 | Two Sum IV - Input is a BST (LeetCode 653) | BST / Hash Set / DFS / Trees | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/two_sum_iv_input_is_a_bst.cpp) |
 | 107 | Delete Node in a BST (LeetCode) | BST / Recursion / Inorder Successor | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/delete_node_in_a_bst.cpp) |
 | 106 | Boundary Traversal of Binary Tree (GFG) | Binary Tree / DFS / Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/boundary_traversal_binary_tree.cpp) |
 | 105 | Top View of Binary Tree (GFG) | Binary Tree / BFS / Queue / Map | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/top_view_binary_tree.cpp) |
