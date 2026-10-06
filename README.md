@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 111 | Lowest Common Ancestor of a Binary Search Tree (LeetCode 235) | BST / Iterative | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/lowest_common_ancestor_of_a_binary_search_tree.cpp) |
 | 110 | Validate Binary Search Tree (LeetCode 98) | BST / Recursion / Range Validation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/validate_binary_search_tree.cpp) |
 | 109 | Kth Smallest Element in a BST (LeetCode 230) | BST / Inorder Traversal / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/kth_smallest_element_in_a_bst.cpp) |
 | 108 | Two Sum IV - Input is a BST (LeetCode 653) | BST / Hash Set / DFS / Trees | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/two_sum_iv_input_is_a_bst.cpp) |
