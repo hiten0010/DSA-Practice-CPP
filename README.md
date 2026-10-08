@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 113 | Binary Tree to DLL (GFG) | Binary Tree / Doubly Linked List / Inorder Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/binary_tree_to_dll.cpp) |
 | 112 | Largest BST Subtree (GFG) | BST / DFS / Post-order Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/largest_bst_subtree.cpp) |
 | 111 | Lowest Common Ancestor of a Binary Search Tree (LeetCode 235) | BST / Iterative | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/lowest_common_ancestor_of_a_binary_search_tree.cpp) |
 | 110 | Validate Binary Search Tree (LeetCode 98) | BST / Recursion / Range Validation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/BST/validate_binary_search_tree.cpp) |
