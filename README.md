@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 117 | BST to Special Max Heap (GFG) | BST / Heaps / Inorder & Postorder Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/bst_to_special_max_heap.cpp) |
 | 116 | Check Completeness of a Binary Tree (LeetCode 958) | Binary Tree / DFS / Index Validation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/check_completeness_of_a_binary_tree.cpp) |
 | 115 | Kth Smallest Element (GFG) | Heaps / Priority Queue / Max-Heap | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/kth_smallest_element.cpp) |
 | 114 | Heap Sort (GFG) | Heaps / Sorting / Max-Heap | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/heap_sort.cpp) |
