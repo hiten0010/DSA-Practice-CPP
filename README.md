@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 119 | Longest Happy String (LeetCode 1405) | Heaps / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/longest_happy_string.cpp) |
 | 118 | Merge k Sorted Arrays (GFG) | Heaps / Priority Queue / Custom Comparator | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/merge_k_sorted_arrays.cpp) |
 | 117 | BST to Special Max Heap (GFG) | BST / Heaps / Inorder & Postorder Traversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/bst_to_special_max_heap.cpp) |
 | 116 | Check Completeness of a Binary Tree (LeetCode 958) | Binary Tree / DFS / Index Validation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trees/check_completeness_of_a_binary_tree.cpp) |
