@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 121 | Merge k Sorted Lists (LeetCode 23) | Heaps / Priority Queue / Linked List | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/merge_k_sorted_lists.cpp) |
 | 120 | Smallest Range Covering Elements from K Lists (LeetCode 632) | Heaps / Priority Queue / Sliding Window / Greedy | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/smallest_range_covering_elements_from_k_lists.cpp) |
 | 119 | Longest Happy String (LeetCode 1405) | Heaps / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/longest_happy_string.cpp) |
 | 118 | Merge k Sorted Arrays (GFG) | Heaps / Priority Queue / Custom Comparator | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/merge_k_sorted_arrays.cpp) |
