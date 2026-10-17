@@ -1,10 +1,11 @@
-# 🧩 DSA Practice Journey - 100 Days Challenge
+# 🧩 DSA Practice Journey - 200 Days Challenge
 
 This repository is a log of my daily problem-solving journey focused on mastering Data Structures and Algorithms for Top-Tier product company placements (targeting 20+ LPA). Organized by fundamental patterns.
 
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 122 | Insert Delete GetRandom O(1) (LeetCode 380) | Hash Map / Vector / Design / O(1) | [Link](DSA-Practice-CPP/HashMaps/insert_delete_getrandom_o1.cpp at main · hiten0010/DSA-Practice-CPP) |
 | 121 | Merge k Sorted Lists (LeetCode 23) | Heaps / Priority Queue / Linked List | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/merge_k_sorted_lists.cpp) |
 | 120 | Smallest Range Covering Elements from K Lists (LeetCode 632) | Heaps / Priority Queue / Sliding Window / Greedy | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/smallest_range_covering_elements_from_k_lists.cpp) |
 | 119 | Longest Happy String (LeetCode 1405) | Heaps / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/longest_happy_string.cpp) |
