@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 123 | Remove Stones to Minimize the Total (LeetCode 1962) | Heaps / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/remove_stones_to_minimize_the_total.cpp) |
 | 122 | Insert Delete GetRandom O(1) (LeetCode 380) | Hash Map / Vector / Design / O(1) | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/HashMaps/insert_delete_getrandom_o1.cpp) |
 | 121 | Merge k Sorted Lists (LeetCode 23) | Heaps / Priority Queue / Linked List | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/merge_k_sorted_lists.cpp) |
 | 120 | Smallest Range Covering Elements from K Lists (LeetCode 632) | Heaps / Priority Queue / Sliding Window / Greedy | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/smallest_range_covering_elements_from_k_lists.cpp) |
