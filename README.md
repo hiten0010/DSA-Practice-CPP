@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 126 | Implement Dictionary Using Trie (Autocomplete / Search Suggestions) | Trie / Prefix Tree / Autocomplete / String Matching | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trie/implement_dictionary_autocomplete.cpp) |
 | 125 | Longest Common Prefix (LeetCode 14) | Trie / Prefix Tree / String Manipulation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trie/longest_common_prefix.cpp) |
 | 124 | Median in Stream (GFG) | Heaps / Priority Queue / Two Heaps / Design | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/median_in_stream.cpp) |
 | 123 | Remove Stones to Minimize the Total (LeetCode 1962) | Heaps / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/remove_stones_to_minimize_the_total.cpp) |
