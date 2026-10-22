@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 127 | Reorganize String (LeetCode 767) | Heaps / Hash Map / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/reorganize_string.cpp) |
 | 126 | Implement Dictionary Using Trie (Autocomplete / Search Suggestions) | Trie / Prefix Tree / Autocomplete / String Matching | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trie/implement_dictionary_autocomplete.cpp) |
 | 125 | Longest Common Prefix (LeetCode 14) | Trie / Prefix Tree / String Manipulation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Trie/longest_common_prefix.cpp) |
 | 124 | Median in Stream (GFG) | Heaps / Priority Queue / Two Heaps / Design | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/median_in_stream.cpp) |
