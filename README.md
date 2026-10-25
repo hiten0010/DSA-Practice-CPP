@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 130 | Fibonacci Number (LeetCode 509) | Dynamic Programming / Memoization / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/fibonacci_number.cpp) |
 | 129 | Kth Largest Element in an Array (LeetCode 215) | Heaps / Priority Queue / Min-Heap | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/kth_largest_element_in_an_array.cpp) |
 | 128 | Linked List Cycle (LeetCode 141) | Linked List / Hash Map / Cycle Detection | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/HashMaps/linked_list_cycle.cpp) |
 | 127 | Reorganize String (LeetCode 767) | Heaps / Hash Map / Greedy / Priority Queue | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Heaps/reorganize_string.cpp) |
