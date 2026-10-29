@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 134 | Pow(x, n) (LeetCode 50) | Math / Binary Exponentiation / Fast Power / Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Math/pow_x_n.cpp) |
 | 133 | Coin Change (LeetCode 322) | Dynamic Programming / Memoization / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/coin_change.cpp) |
 | 132 | House Robber (LeetCode 198) | Dynamic Programming / Memoization / Tabulation / Space Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/tree/main/DynamicProgramming/House_Robber) |
 | 131 | Maximize The Cut Segments (GFG) | Dynamic Programming / Memoization / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/maximize_the_cut_segments.cpp) |
