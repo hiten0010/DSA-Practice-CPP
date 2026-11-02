@@ -5,7 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
-| 137 | Longest Common Subsequence (LeetCode 1143) | Dynamic Programming / Memoization / Tabulation / Space Optimization / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/tree/main/DynamicProgramming/longest_common_subsequence) |
+| 138 | Longest Common Subsequence (LeetCode 1143) | Dynamic Programming / Memoization / Tabulation / Space Optimization / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/tree/main/DynamicProgramming/longest_common_subsequence) |
 | 137 | 0 - 1 Knapsack Problem (Space Optimized - GFG) | Dynamic Programming / Space Optimization / 1D DP / Knapsack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/0_1_knapsack_problemoptmize.cpp) |
 | 136 | 0 - 1 Knapsack Problem (GFG) | Dynamic Programming / Memoization / 2D DP / Knapsack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/0_1_knapsack_problem.cpp) |
 | 135 | Painting the Fence (GFG) | Dynamic Programming / Memoization / Tabulation / Space Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/tree/main/DynamicProgramming/painting_the_fence) |
