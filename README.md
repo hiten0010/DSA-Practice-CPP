@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 139 | House Robber II (LeetCode 213) | Dynamic Programming / Memoization / Circular Array / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/house_robber_ii.cpp) |
 | 138 | Longest Common Subsequence (LeetCode 1143) | Dynamic Programming / Memoization / Tabulation / Space Optimization / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/tree/main/DynamicProgramming/longest_common_subsequence) |
 | 137 | 0 - 1 Knapsack Problem (Space Optimized - GFG) | Dynamic Programming / Space Optimization / 1D DP / Knapsack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/0_1_knapsack_problemoptmize.cpp) |
 | 136 | 0 - 1 Knapsack Problem (GFG) | Dynamic Programming / Memoization / 2D DP / Knapsack | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/0_1_knapsack_problem.cpp) |
