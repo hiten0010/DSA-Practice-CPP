@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 142 | Edit Distance (LeetCode 72) | Dynamic Programming / Memoization / Strings / String Transformation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/edit_distance.cpp) |
 | 141 | Longest Palindromic Subsequence (LeetCode 516) | Dynamic Programming / Memoization / Two Pointers / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/longest_palindromic_subsequence.cpp) |
 | 140 | Perfect Squares (LeetCode 279) | Dynamic Programming / Memoization / Recursion / Math | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/perfect_squares.cpp) |
 | 139 | House Robber II (LeetCode 213) | Dynamic Programming / Memoization / Circular Array / Recursion | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/house_robber_ii.cpp) |
