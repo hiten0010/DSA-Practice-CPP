@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 145 | Climbing Stairs | Dynamic Programming / Memoization / Recursion / Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/climbing_stairs.cpp) |
 | 144 | Frog Jump (GFG) | Dynamic Programming / Memoization / Recursion / Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/frog_jump.cpp) |
 | 143 | Edit Distance - Tabulation (LeetCode 72) | Dynamic Programming / Tabulation / Bottom-Up / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/edit_distance_usingtabulation.cpp) |
 | 142 | Edit Distance (LeetCode 72) | Dynamic Programming / Memoization / Strings / String Transformation | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/edit_distance.cpp) |
