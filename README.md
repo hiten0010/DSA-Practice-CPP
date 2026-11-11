@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 147 | Maximum Sum of Non-Adjacent Elements | Dynamic Programming / Tabulation / Bottom-Up / Array | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/maximum_sum_of_non_adjacent_elements.cpp) |
 | 146 | Frog Jump with K Distances | Dynamic Programming / Memoization / Recursion / Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/frog_jump_k_distances.cpp) |
 | 145 | Climbing Stairs | Dynamic Programming / Memoization / Recursion / Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/climbing_stairs.cpp) |
 | 144 | Frog Jump (GFG) | Dynamic Programming / Memoization / Recursion / Optimization | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/frog_jump.cpp) |
