@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 152 | Distinct Subsequences | Dynamic Programming / Memoization / Strings / Subsequences | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/distinct_subsequences.cpp) |
 | 151 | Shortest Common Supersequence | Dynamic Programming / Memoization / Backtracking / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/shortest_common_supersequence.cpp) |
 | 150 | Minimum Insertions or Deletions to Convert String A to B | Dynamic Programming / Memoization / Strings / LCS | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/minimum_insertions_or_deletions_to_convert_string.cpp) |
 | 149 | Minimum Insertions to Make String Palindrome | Dynamic Programming / Tabulation / Bottom-Up / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/minimum_insertions_to_make_string_palindrome.cpp) |
