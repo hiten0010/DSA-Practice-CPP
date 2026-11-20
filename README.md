@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 156 | Wildcard Matching | Dynamic Programming / Memoization / Strings / Pattern Matching | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/wildcard_matching.cpp) |
 | 155 | Word Break | Dynamic Programming / Memoization / Hashing / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/word_break.cpp) |
 | 154 | Reverse Linked List II (LeetCode 92) | Linked List / Two Pointers / Dummy Node / In-Place Reversal | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/reverse_linked_list_ii.cpp) |
 | 153 | Rotate List (LeetCode 61) | Linked List / Two Pointers / Circular Linked List | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/LinkedList/rotate_list.cpp) |
