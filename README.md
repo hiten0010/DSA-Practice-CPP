@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 162 | Longest Increasing Subsequence (Tabulation) | Dynamic Programming / Tabulation / Bottom-Up / 1D DP / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/longest_increasing_subsequence_tabulation.cpp) |
 | 161 | Longest Increasing Subsequence (LeetCode 300) | Dynamic Programming / Memoization / Subsequence / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/longest_increasing_subsequence.cpp) |
 | 160 | Word Break (Tabulation) | Dynamic Programming / Tabulation / Bottom-Up / Hashing / Strings | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/word_break_tabulation.cpp) |
 | 159 | Wildcard Matching (Tabulation) | Dynamic Programming / Tabulation / Bottom-Up / Strings / Pattern Matching | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/wildcard_matching_tabulation.cpp) |
