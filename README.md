@@ -5,6 +5,7 @@ This repository is a log of my daily problem-solving journey focused on masterin
 ## 📅 Daily Problem Log
 | Day | Problem Title | Pattern/Concept | Code Link |
 | :---: | :--- | :--- | :---: |
+| 164 | Majority Element-II | Arrays / Boyer-Moore Voting / Optimal Space | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/majority_element_ii.cpp) |
 | 163 | Majority Element-I | Arrays / Boyer-Moore Voting / Optimal Space | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/Arrays/majority_element_i.cpp) |
 | 162 | Longest Increasing Subsequence (Tabulation) | Dynamic Programming / Tabulation / Bottom-Up / 1D DP / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/longest_increasing_subsequence_tabulation.cpp) |
 | 161 | Longest Increasing Subsequence (LeetCode 300) | Dynamic Programming / Memoization / Subsequence / Arrays | [Link](https://github.com/hiten0010/DSA-Practice-CPP/blob/main/DynamicProgramming/longest_increasing_subsequence.cpp) |
